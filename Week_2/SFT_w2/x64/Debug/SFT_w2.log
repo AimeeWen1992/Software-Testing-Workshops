@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\User\Desktop\SFT\Week_2\SFT_w2\main.c(161,6): warning C4101: 'i': unreferenced local variable
+  SFT_w2.vcxproj -> C:\Users\User\Desktop\SFT\Week_2\SFT_w2\x64\Debug\SFT_w2.exe
