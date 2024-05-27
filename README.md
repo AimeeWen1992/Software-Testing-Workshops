@@ -1,1 +1,2 @@
-# Seneca-SFT-workshop
+# SFT-workshops
+In this repository, I document my journey through the SFT221 course, which has been a pivotal experience in learning software testing and debugging. I have engaged deeply with various testing techniques that adhere to industry standards of the Software Testing Life Cycle (STLC). The course materials and exercises compiled here reflect the contemporary tools and processes I've mastered, which are widely used in professional environments.
